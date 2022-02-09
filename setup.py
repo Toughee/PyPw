@@ -3,10 +3,10 @@
 from setuptools import setup, find_packages
 
 
-with open('README.rst') as f:
+with open('README.rst', encoding='utf_8') as f:
     readme = f.read()
 
-with open('LICENSE') as f:
+with open('LICENSE', encoding='utf_8') as f:
     license = f.read()
 
 setup(
