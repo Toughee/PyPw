@@ -4,7 +4,7 @@
 
 Python password generator.
 
-![Splash page](./images/img/PyPw_Splash.png)
+![Splash page](./images/PyPw_Splash.png)
 
 
 Generate random passwords and passphares for your home, work, personal computers, emails, social media accounts and anything else.
