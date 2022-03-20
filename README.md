@@ -9,7 +9,10 @@ Python password generator.
 
 Generate random passwords and passphares for your home, work, personal computers, emails, social media accounts and anything else.
 
-App is currently in early development
+App is currently in early development. PyPw can be used in 2 ways
+
+- As a desktop app (PyPw.py)
+- As a terminal command (PyPwCmd.Py)
 ### Completed app tasks:
 
 - [x] App generates a random password
@@ -21,4 +24,4 @@ App is currently in early development
 
 - [ ] Create working password generator function inside tKinter app
 - [ ] Include a button to continuosly create new passwords 
-- [ ] Refactor code for improved randomizer effect
+- [ ] Refactor code for an improved randomizer effect
